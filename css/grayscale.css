@@ -272,16 +272,16 @@ ul.banner-social-buttons {
       ul.banner-social-buttons li:last-child {
         margin-bottom: 0; } }
 		
-#download .portfolio-item {
+#clans .portfolio-item {
   right: 0;
   margin: 0 0 15px; }
-  #download .portfolio-item .portfolio-link {
+  #clans .portfolio-item .portfolio-link {
     position: relative;
     display: block;
     max-width: 400px;
     margin: 0 auto;
     cursor: pointer; }
-    #download .portfolio-item .portfolio-link .portfolio-hover {
+    #clans .portfolio-item .portfolio-link .portfolio-hover {
       position: absolute;
       width: 100%;
       height: 100%;
@@ -291,9 +291,9 @@ ul.banner-social-buttons {
       opacity: 0;
       border-style: solid;
 	  border-width: 2px;}
-      #download .portfolio-item .portfolio-link .portfolio-hover:hover {
+      #clans .portfolio-item .portfolio-link .portfolio-hover:hover {
         opacity: 1; }
-      #download .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+      #clans .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
         font-size: 20px;
         position: absolute;
         top: 50%;
@@ -302,33 +302,33 @@ ul.banner-social-buttons {
         margin-top: -12px;
         text-align: center;
         color: white; }
-        #download .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+        #clans .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
           margin-top: -12px; }
-        #download .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-        #download .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+        #clans .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
+        #clans .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
           margin: 0; }
-  #download .portfolio-item .portfolio-caption {
+  #clans .portfolio-item .portfolio-caption {
     max-width: 400px;
     margin: 0 auto;
     padding: 25px;
     text-align: center;
     background-color: #111111;
 	}
-    #download .portfolio-item .portfolio-caption h4 {
+    #clans .portfolio-item .portfolio-caption h4 {
       margin: 0;
       text-transform: none; }
-    #download .portfolio-item .portfolio-caption p {
+    #clans .portfolio-item .portfolio-caption p {
       font-size: 16px;
       font-style: italic;
       margin: 0;
       font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
-#download * {
+#clans * {
   z-index: 2; }
  
 
 @media (min-width: 767px) {
-  #download .portfolio-item {
+  #clans .portfolio-item {
     margin: 0 0 30px; } }
 	
 
