@@ -140,6 +140,10 @@ a {
     outline: none;
     background: rgba(255, 255, 255, 0.1); }
 
+.frame-border { 
+border:3px solid #000000; 
+}
+	
 .content-section {
   padding-top: 150px;
   padding-bottom: 150px; }
