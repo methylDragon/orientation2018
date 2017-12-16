@@ -102,7 +102,7 @@ a {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/intro-bg.gif") bottom center scroll;
+  background: url("../img/intro-bg.gif") bottom center scroll repeat;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -158,7 +158,7 @@ a {
 
 .download-section {
   color: white;
-  background: url("../img/downloads-bg.gif") center center scroll;
+  background: url("../img/downloads-bg.gif") center center scroll repeat;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
