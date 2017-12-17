@@ -130,7 +130,7 @@ a {
  
 @media screen and (max-width: 1200px) {
 .brand-heading {
-        font-size: 50px; 
+        font-size: 30px; 
 		font-family: "Comforta" sans-serif}
 }
 		
@@ -208,7 +208,7 @@ margin: 0; }
     padding-bottom: 0px;
     padding-top: 0px; }
     section.countdown span {
-	  font-size: 60px;
+	  font-size: 40px;
       width: auto;
 	  }
     section.countdown article {
