@@ -1,5 +1,5 @@
 // sadly, America's inferior date convention is required
-const ORIENTATION_START_DATE = new Date('05/01/2018');
+const ORIENTATION_START_DATE = new Date('09/05/2018');
 
 // returns 2 el array with indiv digits
 const getDigits = (time) => {
