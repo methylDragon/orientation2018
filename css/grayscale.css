@@ -203,7 +203,7 @@ section.countdown {
     font-size: 48px;
     margin: 0; }
 
-@media all and (max-width: 480px) {
+{
   section.countdown {
     padding-bottom: 0px;
     padding-top: 0px; }
@@ -219,9 +219,8 @@ section.countdown {
       font-size: 24px;
       text-align: center; } }
   
-#map {
-  width: 100%;
-  height: 300px; }
+#about {
+  background-color: black; }
 
 @media (min-width: 992px) {
   .content-section {
