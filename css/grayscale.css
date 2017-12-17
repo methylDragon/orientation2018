@@ -33,7 +33,7 @@ p {
   font-size: 16px;
   line-height: 1.5;
   margin: 0 0 25px; }
-  @media (min-width: 768px) {
+  @media (min-width: 992px) {
     p {
       font-size: 18px;
       line-height: 1.6;
@@ -102,7 +102,7 @@ a {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("https://media.giphy.com/media/3o6gaWDquwZ1PMZqpi/giphy.gif") bottom center scroll repeat;
+  background: url("https://media.giphy.com/media/3o6gaWDquwZ1PMZqpi/giphy.gif") bottom center scroll no-repeat;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -115,7 +115,7 @@ a {
       font-size: 50px; }
     .masthead .intro-body .intro-text {
       font-size: 18px; }
-  @media (min-width: 768px) {
+  @media (min-width: 992px) {
     .masthead {
       height: 100%;
       padding: 5%; }
@@ -168,7 +168,7 @@ a {
 
 .download-section {
   color: white;
-  background: url("https://media.giphy.com/media/V9iW1f90FEA9O/giphy.gif") center center scroll repeat;
+  background: url("https://media.giphy.com/media/V9iW1f90FEA9O/giphy.gif") center center scroll no-repeat;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -201,9 +201,9 @@ section.countdown {
     color: #FF0000;
     font-family: "Roboto";
     font-size: 48px;
-    margin: 0; }
+margin: 0; } 
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 992px) {
   section.countdown {
     padding-bottom: 0px;
     padding-top: 0px; }
